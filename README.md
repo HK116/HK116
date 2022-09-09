@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HK116
 - 👀 I’m interested in web development
-- 🌱 Learning computer science and a Junior software developer 
+- 🌱 Learning computer science and a Junior backend developer 
 
 
 <!---

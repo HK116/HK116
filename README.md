@@ -1,4 +1,3 @@
-```markdown
 # Hey there, I'm Henok 👋  
 
 ### 👨‍💻 about me  
@@ -29,7 +28,7 @@ code should be as expressive as prose and as efficient as a haiku. tradeoffs? al
 always curious about new ideas, tech trends, and interesting collaborations. feel free to reach out or check out my repos.  
 
 > “code is like humor. when you have to explain it, it’s bad.”  
-```
+
 <!---
 HK116/HK116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

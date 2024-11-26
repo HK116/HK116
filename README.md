@@ -19,7 +19,7 @@ code should be as expressive as prose and as efficient as a haiku. tradeoffs? al
 
 ### 🛠️ tech stack  
 - **languages**: python, java, c++, c#  
-- **tools & frameworks**: (your favorite ones—add them here!)  
+- **tools & frameworks**: django, git, vscode, intellij, flask
 - **exploring**: data structures, design patterns, and better coding practices  
 
 ---

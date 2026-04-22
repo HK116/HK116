@@ -79,28 +79,6 @@
   </div>
 </div>
 
-<!-- STATS CARD -->
-<div align="center">
-  <div style="
-      width: 80%;
-      padding: 25px;
-      border-radius: 20px;
-      box-shadow: 0px 4px 25px rgba(0,0,0,0.20);
-      background: #0d1117;
-      margin: 30px 0;
-    ">
-
-  <h2 style="background: linear-gradient(90deg, #6366F1, #EC4899); -webkit-background-clip: text; color: transparent; text-align:center;">
-    📊 GitHub Stats
-  </h2>
-
-  <p align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HK116&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK116&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
-
-  </div>
-</div>
 
 <!-- CONTACT CARD -->
 <div align="center">
